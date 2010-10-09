@@ -9,8 +9,8 @@ A jQuery plugin that lets you use an iPhone-style switch as a new web interface 
 
 Features:
 
-- jQuery-style instantiation
-- jQuery-style event handling
+# jQuery-style instantiation
+# jQuery-style event handling
 
 
 == Usage
