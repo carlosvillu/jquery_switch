@@ -1,4 +1,4 @@
-==Switch jQuery Plugin v1.0.0==
+= Switch jQuery Plugin v1.0.0
 
 Copyright (c) 2010 Carlos Villuendas Zambrana. Licensed under the MIT license.
  
