@@ -3,8 +3,8 @@
 Copyright (c) 2010 Carlos Villuendas Zambrana. Licensed under the MIT license.
  
 
-Overview
---------
+== Overview
+
 A jQuery plugin that lets you use an iPhone-style switch as a new web interface element.
 
 Features:
@@ -13,7 +13,6 @@ Features:
 - jQuery-style event handling
 
 
-Usage
------
+== Usage
 
 $('#div-container-switch').switch();
