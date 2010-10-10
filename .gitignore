@@ -1,6 +1,9 @@
 #Mac Files
 .DS_Store
 
+#TextMate Files
+*.tmproj
+
 
 #Files for the demo
 index.html
