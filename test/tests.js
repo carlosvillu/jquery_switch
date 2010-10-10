@@ -1,4 +1,4 @@
-// Contenedor del swotch para todas las pruebas
+// Contenedor del switch para todas las pruebas
 var switch_container = jQuery('<div/>').attr('id', 'switch_container');
 
 module('jQuery Swtich', {
