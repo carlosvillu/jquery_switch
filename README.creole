@@ -12,7 +12,9 @@ Features:
 # jQuery-style instantiation
 # jQuery-style event handling
 
-
+== Re
 == Usage
+{{{
+    $('#div-container-switch').switch();
+}}}
 
-$('#div-container-switch').switch();
