@@ -12,7 +12,11 @@ Features:
 # jQuery-style instantiation
 # jQuery-style event handling
 
-== Re
+== Requirements
+
+* jQuery 1.4+
+* jQuery UI 1.8+
+
 == Usage
 {{{
     $('#div-container-switch').switch();
