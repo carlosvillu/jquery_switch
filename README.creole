@@ -20,6 +20,6 @@ Features:
 
 == Usage
 {{{
-    $('#div-container-switch').switch();
+    $('#div-container-switch').jswitch();
 }}}
 
