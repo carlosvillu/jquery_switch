@@ -43,7 +43,7 @@ jQuery.widget('carlosvillu.jswitch', {
 });
 
 // Opciones por defecto para no tener que configurar absolutamente nada en el switch
-jQuery.carlosvillu.jswitch.defaults = {
+jQuery.carlosvillu.jswitch.options = {
 	image_dir: 'images',
 	state: 'enabled',
 	value: 'on',
